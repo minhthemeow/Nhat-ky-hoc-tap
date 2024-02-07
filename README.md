@@ -1,1 +1,2 @@
 -05/Jan/24: Started learning to code. Again!
+-07/Jan/24: Sorry for skipping a day. I'm trying to set everthing in line. The lesson of today is basic git/github.
