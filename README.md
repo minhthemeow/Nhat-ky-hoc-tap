@@ -1,2 +1,3 @@
--05/Jan/24: Started learning to code. Again!
--07/Jan/24: Sorry for skipping a day. I'm trying to set everthing in line. The lesson of today is basic git/github.
+-05/Feb/24: Started learning to code. Again!
+-07/Feb/24: Sorry for skipping a day. I'm trying to set everthing in line. The lesson of today is basic git/github.
+-12/Feb/24: I'm trying to make the coding into daily habit, but it seems hard. It's a difficult thing but i'll try my best. Today's comming back with some freecodecamp lesson, finished HTML basic usage.
