@@ -2,4 +2,5 @@
 -07/Feb/24: Sorry for skipping a day. I'm trying to set everthing in line. The lesson of today is basic git/github.
 -12/Feb/24: I'm trying to make the coding into daily habit, but it seems hard. It's a difficult thing but i'll try my best. Today's comming back with some freecodecamp lesson, finished HTML basic usage.
 -14/Feb/24: Complete CSS basic knowledge, learning Havard CS50.
--15/Feb/25: Continuing Havard CS50, learn CSS color concept on Freecodecamp..
+-15/Feb/24: Continuing Havard CS50, learn CSS color concept on Freecodecamp..
+-16/Feb/24: (Freecodecamp) Learn CSS Colors by Building a Set of Colored Markers ---> complete 100%.
