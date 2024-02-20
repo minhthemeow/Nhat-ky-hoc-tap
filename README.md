@@ -4,3 +4,4 @@
 -14/Feb/24: Complete CSS basic knowledge, learning Havard CS50.
 -15/Feb/24: Continuing Havard CS50, learn CSS color concept on Freecodecamp..
 -16/Feb/24: (Freecodecamp) Learn CSS Colors by Building a Set of Colored Markers ---> complete 100%.
+-19/Feb/24: (Freecodecamp) Learn HTML Forms by Building a Registration Form, learning CS50.
