@@ -6,7 +6,8 @@
 ### 12/Feb/24 
 - I'm trying to make the coding into daily habit, but it seems hard. It's a difficult thing but i'll try my best. Today's comming back with some freecodecamp lesson, finished HTML basic usage.
 ### 14/Feb/24 
-- Complete CSS basic knowledge, learning Havard CS50.
+- Complete CSS basic knowledge. 
+- Starting Havard CS50 course.
 ### 15/Feb/24 
 - Continuing Havard CS50, learn CSS color concept on Freecodecamp..
 ### 16/Feb/24 
@@ -16,5 +17,7 @@
 ### 20/Feb/24 
 - Continuing Cs50.
 ### 23/Feb/24
-- Cs50: Lecture 2 - Arrays ---> finished
+- Cs50: Lecture 1 - basic concept C programming ---> finished
 - freecodecamp: build basic survey form ---> finished
+### 25/Feb/24
+- freecodecamp: Learn CSS model box concept ---> finished. Learn CSS flex box by building Photos Gallery ---> finished. 
